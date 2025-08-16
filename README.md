@@ -55,5 +55,5 @@ Dashboard/Report Design (Power BI)
 KPI Development and Data Storytelling
 
 Next Steps
-#This project will also be published on Kaggle and shared on LinkedIn as part of my portfolio to highlight skills in data analysis, business intelligence, and visualization.
-#This project demonstrates the ability to handle data end-to-end: from raw stock market data to business insights delivered through a professional Power BI report.
+This project will also be published on Kaggle and shared on LinkedIn as part of my portfolio to highlight skills in data analysis, business intelligence, and visualization.
+This project demonstrates the ability to handle data end-to-end: from raw stock market data to business insights delivered through a professional Power BI report.
